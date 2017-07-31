@@ -1,0 +1,27 @@
+﻿Build started 7/30/2017 12:30:46 PM.
+     1>Project "C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Flappy Bird\Flappy Bird.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt FlappyBird.cpp
+         FlappyBird.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Debug\Flappy Bird.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2test.lib glew32.lib glew32s.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Debug\Flappy Bird.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Debug\Flappy Bird.lib" /MACHINE:X86 Debug\BG.obj
+         Debug\Bird.obj
+         Debug\Camera.obj
+         Debug\Dead.obj
+         Debug\Error.obj
+         Debug\FlappyBird.obj
+         Debug\Floor.obj
+         Debug\ImageLoader.obj
+         Debug\IOManager.obj
+         Debug\Physics.obj
+         Debug\picoPNG.obj
+         Debug\Pipe.obj
+         Debug\ShaderProgram.obj
+         Debug\Sprite.obj
+         Debug\TextureCache.obj
+         Flappy Bird.vcxproj -> C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Debug\Flappy Bird.exe
+     1>Done Building Project "C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Flappy Bird\Flappy Bird.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.06

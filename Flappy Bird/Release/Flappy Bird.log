@@ -1,0 +1,27 @@
+﻿Build started 7/30/2017 12:33:53 PM.
+     1>Project "C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Flappy Bird\Flappy Bird.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Release\Flappy Bird.exe" /NOLOGO SDL2.lib SDL2main.lib SDL2test.lib glew32.lib glew32s.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Release\Flappy Bird.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Release\Flappy Bird.lib" /MACHINE:X86 /SAFESEH Release\BG.obj
+         Release\Bird.obj
+         Release\Camera.obj
+         Release\Dead.obj
+         Release\Error.obj
+         Release\FlappyBird.obj
+         Release\Floor.obj
+         Release\ImageLoader.obj
+         Release\IOManager.obj
+         Release\Physics.obj
+         Release\picoPNG.obj
+         Release\Pipe.obj
+         Release\ShaderProgram.obj
+         Release\Sprite.obj
+         Release\TextureCache.obj
+         Generating code
+         All 765 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+         Finished generating code
+         Flappy Bird.vcxproj -> C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Release\Flappy Bird.exe
+     1>Done Building Project "C:\Users\Josh\Desktop\C++ Development\Flappy Bird\Flappy Bird\Flappy Bird.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.18
